@@ -1,0 +1,15 @@
+body{
+    color: azure;
+    background: aquamarine;
+}
+span{
+    font-size: 30px;
+}
+#camera, #result{
+    border: 2px deshed whitesmoke;
+    width: 350px;
+    height: 300px;
+}
+.nome_do_objeto{
+    
+}
